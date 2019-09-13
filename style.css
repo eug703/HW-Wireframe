@@ -58,6 +58,8 @@ aside{
 }
 footer{
     background: #ebebeb;
+    vertical-align: middle;
+    padding: 35px;
 }
 article{
     color: #ebebeb;
