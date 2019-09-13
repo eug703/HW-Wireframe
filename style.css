@@ -33,6 +33,14 @@ nav{
 div{
     height:300px;
 }
+.inside{
+    color: #777;
+    background: #ebebeb;
+    width: 90%;
+    margin: 0 auto;
+    height: 50px;
+    vertical-align: middle;
+}
 section{
     background: #ebebeb;
     width: 55%;
@@ -73,7 +81,7 @@ p{
     width: 90%;
     margin: 20 auto;
     height: 50px;
-    margin-left: 17px;
+    /* margin-left: 17px; */
     vertical-align: middle;
     padding: 10px;
 }
